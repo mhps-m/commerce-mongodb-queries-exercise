@@ -1,10 +1,9 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Descrição
+
+Este é um simples projeto bônus realizado como parte da grade curricular do curso de desenvolvimento web full-stack da [Trybe](https://www.betrybe.com/)
+
+Ele conta com vários desafios resolvidos com a escrita de queries MQL para realizar diversas operações num banco de dados **MongoDB**, que imita um banco do **McDonalds** e seus lanches.
+
+Projeto disponibilizado neste repositório apenas para fins de registro, então ele não deve ser executado.
+
+# Contato
